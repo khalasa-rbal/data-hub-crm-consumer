@@ -1,0 +1,16 @@
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\bin\Debug\netcoreapp5.0\Bootstrap.exe
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\bin\Debug\netcoreapp5.0\Bootstrap.deps.json
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\bin\Debug\netcoreapp5.0\Bootstrap.runtimeconfig.json
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\bin\Debug\netcoreapp5.0\Bootstrap.runtimeconfig.dev.json
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\bin\Debug\netcoreapp5.0\Bootstrap.dll
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\bin\Debug\netcoreapp5.0\Bootstrap.pdb
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\bin\Debug\netcoreapp5.0\CommandLine.dll
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\obj\Debug\netcoreapp5.0\Bootstrap.csproj.AssemblyReference.cache
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\obj\Debug\netcoreapp5.0\Bootstrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\obj\Debug\netcoreapp5.0\Bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\obj\Debug\netcoreapp5.0\Bootstrap.csproj.CopyComplete
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\obj\Debug\netcoreapp5.0\Bootstrap.dll
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\obj\Debug\netcoreapp5.0\refint\Bootstrap.dll
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\obj\Debug\netcoreapp5.0\Bootstrap.pdb
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\obj\Debug\netcoreapp5.0\Bootstrap.genruntimeconfig.cache
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\Bootstrap\obj\Debug\netcoreapp5.0\ref\Bootstrap.dll

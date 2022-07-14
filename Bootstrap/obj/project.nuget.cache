@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MejjSPthtMpm0AubZNXbK0FyMWFk/J4/l7/qZYEZEmtv/u5m/oDhllugNR4YoHOaT/vABS+za36s8CnUBOgZlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\Bootstrap\\Bootstrap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alaifkr\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
