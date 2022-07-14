@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary.Test\\ClientLibrary.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary.Test\\ClientLibrary.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary.Test\\ClientLibrary.Test.csproj",
+        "projectName": "ClientLibrary.Test",
+        "projectPath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary.Test\\ClientLibrary.Test.csproj",
+        "packagesPath": "C:\\Users\\alaifkr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alaifkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {
+              "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\ClientLibrary.csproj": {
+                "projectPath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\ClientLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\ClientLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\ClientLibrary.csproj",
+        "projectName": "ClientLibrary",
+        "projectPath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\ClientLibrary.csproj",
+        "packagesPath": "C:\\Users\\alaifkr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alaifkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

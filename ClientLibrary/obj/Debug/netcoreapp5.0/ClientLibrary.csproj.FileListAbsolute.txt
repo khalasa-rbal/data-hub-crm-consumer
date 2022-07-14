@@ -1,0 +1,10 @@
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\ClientLibrary\bin\Debug\netcoreapp5.0\ClientLibrary.deps.json
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\ClientLibrary\bin\Debug\netcoreapp5.0\ClientLibrary.dll
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\ClientLibrary\bin\Debug\netcoreapp5.0\ClientLibrary.pdb
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\ClientLibrary\obj\Debug\netcoreapp5.0\ClientLibrary.csproj.AssemblyReference.cache
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\ClientLibrary\obj\Debug\netcoreapp5.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\ClientLibrary\obj\Debug\netcoreapp5.0\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\ClientLibrary\obj\Debug\netcoreapp5.0\ClientLibrary.dll
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\ClientLibrary\obj\Debug\netcoreapp5.0\refint\ClientLibrary.dll
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\ClientLibrary\obj\Debug\netcoreapp5.0\ClientLibrary.pdb
+C:\Users\alaifkr\source\repos\amazon-kinesis-client-net-master\ClientLibrary\obj\Debug\netcoreapp5.0\ref\ClientLibrary.dll
