@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "FrUQJSrlzJJ+JRRGjVUa3+jyNHHTOPCjZfoRucRLv0RhpUojs5JM6N4ByjL1YTubEYvMCMDL0RllntdPIZIRAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\SampleConsumer\\SampleConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alaifkr\\.nuget\\packages\\awssdk.core\\3.7.12.7\\awssdk.core.3.7.12.7.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\awssdk.kinesisfirehose\\3.7.2.101\\awssdk.kinesisfirehose.3.7.2.101.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\awssdk.s3\\3.7.9.23\\awssdk.s3.3.7.9.23.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\awssdk.secretsmanager\\3.7.2.63\\awssdk.secretsmanager.3.7.2.63.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\documentformat.openxml\\2.17.1\\documentformat.openxml.2.17.1.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.21.0\\microsoft.identitymodel.abstractions.6.21.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\microsoft.identitymodel.logging\\6.21.0\\microsoft.identitymodel.logging.6.21.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.21.0\\microsoft.identitymodel.protocols.6.21.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.21.0\\microsoft.identitymodel.tokens.6.21.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

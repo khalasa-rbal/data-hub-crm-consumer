@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\SampleConsumer\\SampleConsumer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\ClientLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\ClientLibrary.csproj",
+        "projectName": "ClientLibrary",
+        "projectPath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\ClientLibrary.csproj",
+        "packagesPath": "C:\\Users\\alaifkr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alaifkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\SampleConsumer\\SampleConsumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\SampleConsumer\\SampleConsumer.csproj",
+        "projectName": "SampleConsumer",
+        "projectPath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\SampleConsumer\\SampleConsumer.csproj",
+        "packagesPath": "C:\\Users\\alaifkr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\SampleConsumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alaifkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {
+              "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\ClientLibrary.csproj": {
+                "projectPath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\ClientLibrary\\ClientLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "AWSSDK.KinesisFirehose": {
+              "target": "Package",
+              "version": "[3.7.2.101, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.9.23, )"
+            },
+            "AWSSDK.SecretsManager": {
+              "target": "Package",
+              "version": "[3.7.2.63, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Protocols": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
