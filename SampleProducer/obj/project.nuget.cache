@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXStrHCwTDBA25CEfmMdIjJ2933hkBzYJh/GJqTJqqEF+Uhf25deHKmhP0ImbdARNx7LQ4wGK07dGxHWYDC2ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alaifkr\\source\\repos\\Transactions-CRM-Consumer\\SampleProducer\\SampleProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alaifkr\\.nuget\\packages\\awssdk.core\\3.7.12.7\\awssdk.core.3.7.12.7.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\awssdk.kinesis\\3.7.1.76\\awssdk.kinesis.3.7.1.76.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alaifkr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
